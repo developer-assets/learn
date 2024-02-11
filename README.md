@@ -1,1 +1,1 @@
-# codecademy
+Mini learning projects.
