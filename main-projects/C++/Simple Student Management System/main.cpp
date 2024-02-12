@@ -297,7 +297,11 @@ class StudentData
     }
 
 		void clearScreen () {
-			system("clear"); // for linux
+			// uncomment based on your OS
+			// clear console on linux and mac
+			//system("clear");
+			//clear console on windows
+			//system("cls");
 		}
 };
 
